@@ -1,0 +1,10 @@
+D:\visual studio\project\Adc\Adc\bin\Debug\Adc.exe.config
+D:\visual studio\project\Adc\Adc\bin\Debug\Adc.exe
+D:\visual studio\project\Adc\Adc\bin\Debug\Adc.pdb
+D:\visual studio\project\Adc\Adc\obj\Debug\Adc.csprojAssemblyReference.cache
+D:\visual studio\project\Adc\Adc\obj\Debug\Adc.Form1.resources
+D:\visual studio\project\Adc\Adc\obj\Debug\Adc.Properties.Resources.resources
+D:\visual studio\project\Adc\Adc\obj\Debug\Adc.csproj.GenerateResource.cache
+D:\visual studio\project\Adc\Adc\obj\Debug\Adc.csproj.CoreCompileInputs.cache
+D:\visual studio\project\Adc\Adc\obj\Debug\Adc.exe
+D:\visual studio\project\Adc\Adc\obj\Debug\Adc.pdb
